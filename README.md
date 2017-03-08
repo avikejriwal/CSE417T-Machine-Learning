@@ -1,3 +1,3 @@
 # CSE417-Machine-Learning
 
-WUSTL CSE417 projects
+Code used for WUSTL CSE417 projects
